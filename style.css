@@ -1,0 +1,27 @@
+.header__tittle {
+  color: red;
+}
+
+.header__heding {
+  border-bottom: dashed 1px #c4c4c4;
+}
+
+.sectoin__paragraphe_theme1 {
+  color: blue;
+}
+
+sectoin__paragraphe_theme2 {
+  color: black;
+}
+
+.footer__contacts {
+  color:red;
+}
+
+.footer__telephone {
+  color: green;
+}
+
+.footer__mail {
+  color: green;
+}
