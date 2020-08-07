@@ -1,3 +1,13 @@
+header {
+  color: blue;
+  font-family: "pacifico"
+}
+
+body {
+  color: red;
+   font-family: "lobster"
+}
+
 .header__tittle {
   color: red;
 }
